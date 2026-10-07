@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Employee Attrition Analysis – Power BI + Machine Learning
 
 ## Overview
@@ -146,7 +145,6 @@ understand why employee leaves a company.
 - Power BI
 - DAX
 - Data Cleaning & Modeling
->>>>>>> af3a54ca6badb80dacdd5cbe9e9fd58895f13756
 
 ## How to Use
 Download the PBIX file and open it using Power BI Desktop.
@@ -163,4 +161,3 @@ The dataset used for this analysis is included in this repository
 for reference and learning purposes.
 
 
->>>>>>> af3a54ca6badb80dacdd5cbe9e9fd58895f13756
