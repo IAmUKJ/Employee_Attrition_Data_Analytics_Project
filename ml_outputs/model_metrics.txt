@@ -1,0 +1,23 @@
+EMPLOYEE ATTRITION ML MODEL EVALUATION
+=============================================
+
+              Model  Accuracy  Precision   Recall       F1  ROC_AUC
+Logistic Regression  0.751701   0.348837 0.638298 0.451128 0.803170
+      Random Forest  0.843537   0.518519 0.297872 0.378378 0.787665
+
+Selected model: Logistic Regression
+Reason: stronger recall and interpretable risk drivers for HR intervention.
+
+Confusion Matrix - Logistic Regression
+[[191  56]
+ [ 17  30]]
+
+Classification Report - Logistic Regression
+              precision    recall  f1-score   support
+
+        Stay       0.92      0.77      0.84       247
+       Leave       0.35      0.64      0.45        47
+
+    accuracy                           0.75       294
+   macro avg       0.63      0.71      0.65       294
+weighted avg       0.83      0.75      0.78       294

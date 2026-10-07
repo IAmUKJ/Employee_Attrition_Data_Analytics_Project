@@ -1,0 +1,52 @@
+Feature,Coefficient,Absolute_Impact,Direction
+categorical__JobRole_Research Director,-1.46568255835099,1.46568255835099,Decreases attrition risk
+categorical__JobRole_Laboratory Technician,1.1943325530473066,1.1943325530473066,Increases attrition risk
+categorical__JobRole_Sales Representative,1.1206165881634236,1.1206165881634236,Increases attrition risk
+categorical__BusinessTravel_Non-Travel,-0.99388502128906,0.99388502128906,Decreases attrition risk
+categorical__OverTime_No,-0.8928085103320001,0.8928085103320001,Decreases attrition risk
+categorical__EducationField_Other,-0.7981075176499128,0.7981075176499128,Decreases attrition risk
+categorical__BusinessTravel_Travel_Frequently,0.7875664615769833,0.7875664615769833,Increases attrition risk
+categorical__OverTime_Yes,0.7615220595490872,0.7615220595490872,Increases attrition risk
+categorical__EducationField_Human Resources,0.7211292387661913,0.7211292387661913,Increases attrition risk
+categorical__JobRole_Healthcare Representative,-0.6472018534513686,0.6472018534513686,Decreases attrition risk
+numeric__TotalWorkingYears,-0.6202341455876411,0.6202341455876411,Decreases attrition risk
+numeric__JobLevel,0.6074258468489235,0.6074258468489235,Increases attrition risk
+numeric__YearsSinceLastPromotion,0.502530948115179,0.502530948115179,Increases attrition risk
+categorical__MaritalStatus_Divorced,-0.48223075689806,0.48223075689806,Decreases attrition risk
+categorical__JobRole_Human Resources,0.46388612205572977,0.46388612205572977,Increases attrition risk
+numeric__NumCompaniesWorked,0.4604957076987785,0.4604957076987785,Increases attrition risk
+categorical__MaritalStatus_Single,0.45727739476461865,0.45727739476461865,Increases attrition risk
+numeric__YearsWithCurrManager,-0.4546739804551845,0.4546739804551845,Decreases attrition risk
+numeric__EnvironmentSatisfaction,-0.42618471056420026,0.42618471056420026,Decreases attrition risk
+numeric__JobSatisfaction,-0.3888758511543346,0.3888758511543346,Decreases attrition risk
+categorical__JobRole_Manager,-0.38159120381521977,0.38159120381521977,Decreases attrition risk
+categorical__Department_Sales,0.35690202012340716,0.35690202012340716,Increases attrition risk
+categorical__EducationField_Technical Degree,0.35075017277811804,0.35075017277811804,Increases attrition risk
+numeric__DistanceFromHome,0.3183525983246718,0.3183525983246718,Increases attrition risk
+numeric__JobInvolvement,-0.28794943564930503,0.28794943564930503,Decreases attrition risk
+numeric__MonthlyIncome,-0.28296745066399226,0.28296745066399226,Decreases attrition risk
+numeric__Age,-0.2743586388987946,0.2743586388987946,Decreases attrition risk
+categorical__JobRole_Manufacturing Director,-0.2641335228179619,0.2641335228179619,Decreases attrition risk
+categorical__Department_Human Resources,-0.250873374092155,0.250873374092155,Decreases attrition risk
+numeric__YearsAtCompany,0.25072514525517847,0.25072514525517847,Increases attrition risk
+numeric__RelationshipSatisfaction,-0.24793984812364805,0.24793984812364805,Decreases attrition risk
+categorical__Department_Research & Development,-0.23731509681416546,0.23731509681416546,Decreases attrition risk
+numeric__PercentSalaryHike,-0.23476649743282668,0.23476649743282668,Decreases attrition risk
+categorical__EducationField_Life Sciences,-0.2338259448870911,0.2338259448870911,Decreases attrition risk
+numeric__YearsInCurrentRole,-0.23110743004097392,0.23110743004097392,Decreases attrition risk
+categorical__Gender_Female,-0.22720378631893914,0.22720378631893914,Decreases attrition risk
+numeric__WorkLifeBalance,-0.2235978232858062,0.2235978232858062,Decreases attrition risk
+numeric__DailyRate,-0.22295518385599164,0.22295518385599164,Decreases attrition risk
+numeric__StockOptionLevel,-0.20283084616066005,0.20283084616066005,Decreases attrition risk
+categorical__EducationField_Medical,-0.17955529089713526,0.17955529089713526,Decreases attrition risk
+numeric__TrainingTimesLastYear,-0.16782328327943116,0.16782328327943116,Decreases attrition risk
+numeric__PerformanceRating,0.1402573621674154,0.1402573621674154,Increases attrition risk
+categorical__MaritalStatus_Married,-0.10633308864947688,0.10633308864947688,Decreases attrition risk
+categorical__Gender_Male,0.0959173355360285,0.0959173355360285,Increases attrition risk
+categorical__JobRole_Sales Executive,-0.08087844223607471,0.08087844223607471,Decreases attrition risk
+categorical__BusinessTravel_Travel_Rarely,0.07503210892916244,0.07503210892916244,Increases attrition risk
+categorical__JobRole_Research Scientist,-0.07063413337775243,0.07063413337775243,Decreases attrition risk
+numeric__HourlyRate,-0.0480830224110081,0.0480830224110081,Decreases attrition risk
+numeric__MonthlyRate,0.024712682352324718,0.024712682352324718,Increases attrition risk
+numeric__Education,0.014309320185006372,0.014309320185006372,Increases attrition risk
+categorical__EducationField_Marketing,0.00832289110691936,0.00832289110691936,Increases attrition risk
